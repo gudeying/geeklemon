@@ -21,7 +21,7 @@
 		<netty.version>4.1.9.Final</netty.version>
 		<cglib.version>3.2.4</cglib.version>
 		<hutool-all.version>4.2.1</hutool-all.version>
-		<zookeeper.version>3.4.13</zookeeper.version>
+		<zookeeper.version>3.4.14</zookeeper.version>
 		<curator.version>4.0.1</curator.version>
 	</properties>
 
