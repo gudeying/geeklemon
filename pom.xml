@@ -14,7 +14,7 @@
 		<java.encoding>UTF-8</java.encoding>
 		<project-name>geeklemon</project-name>
 		<project-version>1.0.0-SNAPSHOT</project-version>
-		<common-beans.version>1.9.2</common-beans.version>
+		<common-beans.version>1.9.4</common-beans.version>
 		<slf4j.version>1.7.7</slf4j.version>
 		<logback.version>1.1.7</logback.version>
 		<fastjson.version>1.2.54</fastjson.version>
